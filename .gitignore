@@ -1,6 +1,7 @@
 ### IDEA ###
 .idea/*
 *.iml
+*.bak
 */target/*
 */*.iml
 fx.jpg
@@ -9,3 +10,15 @@ simsunb.ttf
 spy.log
 Alibaba-PuHuiTi-Regular.otf
 logs/*
+# Maven #
+target
+
+# Eclipse #
+.settings
+.classpath
+.project
+.factorypath
+
+# log path #
+catalina_*
+/log/
